@@ -1,0 +1,111 @@
+html {
+    padding: 0;
+    margin: 0;
+    color: #555;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 12px;
+}
+
+a:hover,
+a:visited,
+a:active,
+a:link {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+h1 {
+    font-weight: 100;
+    font-size: 3em;
+    text-align: center;
+    width: auto;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 1em;
+    text-align: center;
+    width: auto;
+    display: inline;
+    color: #99f;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    font-size: 1.3em;
+    padding: 2em;
+    line-height: 1.8em;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#section {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#section ul {
+    padding: 0;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#section ul li {
+    display: inline-block;
+    padding: .4em;
+}
+
+#section ul li:hover {
+    color: #99f;
+}
+
+#home a:link,
+#home a:hover,
+#home a:active,
+#home a:visited {
+    padding: .2em;
+}
+
+#home a:hover {
+    opacity: 0.6;
+}
+
+#SMC {
+  color: #00a2ff;
+}
+
+#compton {
+  color: #f8ba00;
+}
+
+#scholarship {
+  color: #0076ba;
+}
+
+#linkedin {
+  color: #2867B2;
+}
+
+#codepen {
+  color: #008b8b;
+}
+
+#nasa {
+  color: #0B3D91;
+}
+
+#ucla {
+  color: #2D68C4;
+}
+
+#email {
+  color: #FF6600;
+}
