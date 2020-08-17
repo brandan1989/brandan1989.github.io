@@ -29,54 +29,6 @@ h1 {
     animation: 0.80s blink step-end infinite;
 }
 
-/* Cross Platform */
-
-@keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: #00BFFF;
-  }
-}
-
-
-@-moz-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: #00BFFF;
-  }
-}
-
-@-webkit-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: #00BFFF;
-  }
-}
-
-@-ms-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: #00BFFF;
-  }
-}
-
-@-o-keyframes "blink" {
-  from, to {
-    color: transparent;
-  }
-  50% {
-    color: #00BFFF;
-  }
-}
-
 .container {
     margin-left: auto;
     margin-right: auto;
