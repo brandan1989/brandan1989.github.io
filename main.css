@@ -142,20 +142,16 @@ h1 {
   color: #2867B2 !important;
 }
 
-#codepen {
-  color: #008b8b !important;
+#github {
+  color: #000000 !important;
 }
 
 #snap {
-  color: #ffff00 !important;
+  color: #e1e100 !important;
 }
 
 #nasa {
   color: #0B3D91 !important;
-}
-
-#ucla {
-  color: #2D68C4 !important;
 }
 
 #email {
